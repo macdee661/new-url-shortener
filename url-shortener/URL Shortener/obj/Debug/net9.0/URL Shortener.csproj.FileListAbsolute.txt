@@ -1,0 +1,53 @@
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\bin\Debug\net9.0\appsettings.json
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\bin\Debug\net9.0\URL Shortener.staticwebassets.endpoints.json
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\bin\Debug\net9.0\URL Shortener.exe
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\bin\Debug\net9.0\URL Shortener.deps.json
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\bin\Debug\net9.0\URL Shortener.runtimeconfig.json
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\bin\Debug\net9.0\URL Shortener.dll
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\bin\Debug\net9.0\URL Shortener.pdb
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\obj\Debug\net9.0\URL Shortener.csproj.AssemblyReference.cache
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\obj\Debug\net9.0\URL Shortener.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\obj\Debug\net9.0\URL Shortener.AssemblyInfoInputs.cache
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\obj\Debug\net9.0\URL Shortener.AssemblyInfo.cs
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\obj\Debug\net9.0\URL Shortener.csproj.CoreCompileInputs.cache
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\obj\Debug\net9.0\URL Shortener.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\obj\Debug\net9.0\URL Shortener.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\obj\Debug\net9.0\URL Shortener.sourcelink.json
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\obj\Debug\net9.0\scopedcss\bundle\URL Shortener.styles.css
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\obj\Debug\net9.0\staticwebassets\msbuild.URL Shortener.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\obj\Debug\net9.0\staticwebassets\msbuild.URL Shortener.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\obj\Debug\net9.0\staticwebassets\msbuild.build.URL Shortener.props
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.URL Shortener.props
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.URL Shortener.props
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\obj\Debug\net9.0\URL Shor.27B7B822.Up2Date
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\obj\Debug\net9.0\URL Shortener.dll
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\obj\Debug\net9.0\refint\URL Shortener.dll
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\obj\Debug\net9.0\URL Shortener.pdb
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\obj\Debug\net9.0\URL Shortener.genruntimeconfig.cache
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\obj\Debug\net9.0\ref\URL Shortener.dll
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\bin\Debug\net9.0\K4os.Compression.LZ4.dll
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\bin\Debug\net9.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\bin\Debug\net9.0\K4os.Hash.xxHash.dll
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\bin\Debug\net9.0\MySql.Data.dll
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\bin\Debug\net9.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\bin\Debug\net9.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\bin\Debug\net9.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\bin\Debug\net9.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\bin\Debug\net9.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\mzhar\OneDrive\Documents\URL Shortener\URL Shortener\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll

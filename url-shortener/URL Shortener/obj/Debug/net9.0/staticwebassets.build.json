@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "YhH+hxb+1GD+UMXOwoSe4lE6YR61GGWYopj1Iqx1FLQ=",
+  "Source": "URL Shortener",
+  "BasePath": "_content/URL Shortener",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
